@@ -10,4 +10,6 @@ npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser -D
 
 npm i prettier eslint-config-prettier eslint-plugin-prettier -D
 
-Aula 17:7
+npx tsc --init (cria o tsconfig.json)
+
+Aula 17:8
