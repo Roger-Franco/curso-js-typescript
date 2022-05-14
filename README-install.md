@@ -12,8 +12,7 @@ npm i prettier eslint-config-prettier eslint-plugin-prettier -D
 
 npx tsc --init (cria o tsconfig.json)
 
-Aula 18:8 faltou essa
-Aula 18:12
+Aula 18:15
 
 
 repositorio: https://github.com/luizomf/cursojstypescript
