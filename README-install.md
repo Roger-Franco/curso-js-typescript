@@ -14,7 +14,9 @@ npx tsc --init (cria o tsconfig.json)
 
 npm i ts-loader webpack webpack-cli --save-dev
 
-npx webpack
+npx webpack -w
+npx tsc
+npm run <scripts>
 
 Aula 18:18
 minutes: 10:00
