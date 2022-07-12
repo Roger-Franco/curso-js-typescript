@@ -18,8 +18,11 @@ npx webpack -w
 npx tsc
 npm run <scripts>
 
-Aula 18:18
-minutes: 10:00
+"npm run build:frontend " e depois abrir o server (clicar no Go Live, link na aba inferior do vscode)
+
+mesa/aulas-typescript/18:22
+minutes:
 
 
 repositorio: https://github.com/luizomf/cursojstypescript
+
