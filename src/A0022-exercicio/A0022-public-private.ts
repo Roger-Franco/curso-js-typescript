@@ -39,7 +39,7 @@ empresa1.adicionaColaborador({
   sobrenome: 'zoe',
 });
 // console.log(funcionario1);
-console.log(empresa1.);
+console.log(empresa1);
 // console.log(empresa1.nome);
 
 empresa1.mostrarColaboradores();
