@@ -20,7 +20,7 @@ npm run <scripts>
 
 "npm run build:frontend " e depois abrir o server (clicar no Go Live, link na aba inferior do vscode)
 
-mesa/aulas-typescript/19:19
+mesa/aulas-typescript/20:01
 minutes:
 18/07 => 25:00
 
