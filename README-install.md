@@ -20,7 +20,7 @@ npm run <scripts>
 
 "npm run build:frontend " e depois abrir o server (clicar no Go Live, link na aba inferior do vscode)
 
-mesa/aulas-typescript/23/05
+mesa/aulas-typescript/23/06
 
 repositorio: https://github.com/luizomf/cursojstypescript
 
