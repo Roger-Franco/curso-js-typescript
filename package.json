@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.14.183",
     "@types/node": "^18.0.3",
     "@types/validator": "^13.7.4",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
@@ -27,6 +28,7 @@
     "webpack-cli": "^4.9.2"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "validator": "^13.7.0"
   }
 }
